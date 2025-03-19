@@ -1,2 +1,2 @@
 # HSLiNets
-GRSL summlepmentary documents contains code,  mapclassification and patch size analysis
+GRSL summlepmentary documents contains code,  data, mapclassification and complete experimental outcomes.
